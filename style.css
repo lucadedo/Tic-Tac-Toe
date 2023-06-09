@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
+/* game cells */
 .cell {
     width: 75px;
     height: 75px;
